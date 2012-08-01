@@ -1,3 +1,4 @@
 *~
 *.js
 test/index_dev.html
+.*/*
